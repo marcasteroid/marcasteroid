@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# iOS Developer Playground 📱
+# I develop apps for iOS 📱
 
 Welcome to my personal repository where I explore the exciting realms of iOS development, incorporating the latest technologies and diving into intriguing domains! 🚀
 
@@ -42,7 +42,7 @@ I'm fascinated by the world of Graph Neural Networks: uncovering patterns and re
 I like to experiment with qubits and quantum algorithms for cutting-edge solutions: quantum machine learning and quantum optimization algorithms.
 
 ### I’m currently learning 🌱
-Go and Rust
+Go, Rust and Flutter
 
 ### How to reach me 📫
 Feel free to drop me a line: marco.margarucci@outlook.com
