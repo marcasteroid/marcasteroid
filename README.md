@@ -27,7 +27,7 @@ I like to explore the dynamic and visually stunning world of iOS development wit
 ### async/await ⏳
 I'm currently learning the asynchronous paradigm of Swift in order to make code more readable and efficient.
 
-## Passion Projects 💡
+## Projects 💡
 
 ### Machine Learning 🤖
 Embark on a journey into the realm of intelligent applications. Uncover the magic of machine learning, crafting solutions that learn and adapt.
