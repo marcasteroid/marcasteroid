@@ -50,14 +50,6 @@ I’m a software engineer who would like to turn into a **Classical ML / Quantum
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcasteroid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcasteroid&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-margarucci-ab174a379/">
