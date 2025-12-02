@@ -26,7 +26,7 @@ I'm a software engineer diving deep into the fascinating world of **Quantum Comp
 ---
 
 ## 💬 Ask Me About
-- My journey from **Classical ML ➝ Quantum ML**  
+- My journey from **Software engineering ➝ Quantum ML & AI**  
 
 ---
 
@@ -35,8 +35,8 @@ I'm a software engineer diving deep into the fascinating world of **Quantum Comp
 
 ---
 
-## ⚡ Fun Fact
-I’m a software engineer turning into a Classical ML/Quantum ML researcher — all while reading poetry 📖 and working on personal long-term photo projects 📸.  
+## ✨ About Me
+I’m a software engineer who would like to turn into a **Classical ML / Quantum ML researcher** — all while reading poetry 📖 and working on personal long-term photo projects 📸.
 
 ---
 
