@@ -1,53 +1,69 @@
-## Hi there, I'm Marco Margarucci 👋
+<h1 align="center">Hi there, I'm Marco Margarucci 👋</h1>
 
-Welcome to my profile! 🚀  
-I'm a software engineer exploring the fascinating world of **Quantum Computing** and **Machine Learning**, while also nurturing my love for poetry and photography.  
-
----
-
-### 🔭 Current Projects
-- AI Agents  
-- Quantum Genetic Algorithms for Quantum Circuits generation  
-- Quantum Machine Learning  
+<p align="center">
+  🚀 Software Engineer | Quantum ML Explorer
+</p>
 
 ---
 
-### 🌱 Currently Learning
-- Quantum Computing  
-- Quantum Machine Learning  
-- Classical Machine Learning  
+## ✨ About Me
+I'm a software engineer diving deep into the fascinating world of **Quantum Computing** and **Machine Learning**, while nurturing my love for poetry and long-term photography projects.  
 
 ---
 
-### 💬 Ask Me About 
-- My journey from classical ML to quantum ML  
+## 🔭 Current Projects
+- 🤖 AI Agents  
+- ⚛️ Quantum Genetic Algorithms for Quantum Circuits generation  
+- 🧠 Quantum Machine Learning  
 
 ---
 
-### 📫 How to Reach Me
-- Email: **margarucci.marco@gmail.com**
+## 🌱 Currently Learning
+- ⚛️ Quantum Computing  
+- 🧠 Quantum Machine Learning  
+- 📊 Classical Machine Learning  
 
 ---
 
-### ⚡ Fun Fact
-Software engineer turning into a Classical ML/Quantum ML researcher — all while reading poetry 📖 and working on long-term photography projects 📸.  
+## 💬 Ask Me About
+- My journey from **Classical ML ➝ Quantum ML**  
 
 ---
 
-### ❤️ Languages I Love
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+## 📫 How to Reach Me
+📧 **margarucci.marco@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcasteroid&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcasteroid&layout=compact&theme=radical)  
+## ⚡ Fun Fact
+I’m a software engineer turning into a Classical ML/Quantum ML researcher — all while reading poetry 📖 and working on personal long-term photo projects 📸.  
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-margarucci)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcasteroid)
+## ❤️ Languages I Love
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcasteroid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcasteroid&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/marco-margarucci-ab174a379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/marcasteroid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
