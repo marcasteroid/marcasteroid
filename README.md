@@ -25,18 +25,13 @@ I'm a software engineer diving deep into the fascinating world of **Quantum Comp
 
 ---
 
-## 💬 Ask Me About
-- My journey from **Software engineering ➝ Quantum ML & AI**  
-
----
-
 ## 📫 How to Reach Me
-📧 **margarucci.marco@gmail.com**
+📧 **marco.margarucci@outlook.com**
 
 ---
 
 ## ✨ About Me
-I’m a software engineer who would like to turn into a **Classical ML / Quantum ML researcher** — all while reading poetry 📖 and working on personal long-term photo projects 📸.
+I’m a software engineer working on personal long-term photo projects 📸.
 
 ---
 
