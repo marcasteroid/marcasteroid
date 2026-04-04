@@ -26,7 +26,7 @@ I'm a software engineer diving deep into the fascinating world of **Quantum Comp
 ---
 
 ## How to Reach Me
-📧 **marco.margarucci@outlook.com**
+📧 **margarucci.marco@gmail.com**
 
 ---
 
