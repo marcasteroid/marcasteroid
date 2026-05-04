@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Marco Margarucci 🐈</h1>
+<h1 align="center">Hi there, I'm Marco Margarucci</h1>
 
 <h3 align="center">
   Software Engineer | Quantum ML Explorer
 </h3>
 
 <p align="center">
-  <em>Diving deep into the fascinating world of <b>Quantum Computing</b> and <b>Machine Learning</b>, while nurturing my love for poetry and long-term photography projects.</em>
+  Diving deep into the fascinating world of <b>Quantum Computing</b> and <b>Machine Learning</b>, while nurturing my love for poetry and long-term photography projects.
 </p>
 
 ---
