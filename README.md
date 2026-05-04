@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Marco Margarucci 👋</h1>
+<h1 align="center">Hi there, I'm Marco Margarucci 🐈</h1>
 
 <h3 align="center">
   Software Engineer | Quantum ML Explorer
