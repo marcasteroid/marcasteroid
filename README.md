@@ -17,22 +17,22 @@
 
 ---
 
-## 🌱 Currently Learning
-- ⚛️ Quantum Computing  
-- 🧠 Quantum Machine Learning  
-- 📊 Classical Machine Learning  
-- ✍️ Formal Methods
+## Currently Learning
+- Quantum Computing  
+- Quantum Machine Learning  
+- Classical Machine Learning  
+- Formal Methods
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack and Tools
 
-### ⚛️ Quantum Computing
+### Quantum Computing
 <p align="center">
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
   <img src="https://img.shields.io/badge/PennyLane-19B37C?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane" />
 </p>
 
-### 🧠 Machine Learning & Data Science
+### Machine Learning and Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
-### 🛠️ Languages & Core Frameworks
+### Languages and Core Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -54,5 +54,5 @@
 
 ---
 
-## 📫 How to Reach Me
-📧 **[margarucci.marco@gmail.com](mailto:margarucci.marco@gmail.com)**
+## How to Reach Me
+**[margarucci.marco@gmail.com](mailto:margarucci.marco@gmail.com)**
