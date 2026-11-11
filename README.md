@@ -1,27 +1,21 @@
 <h1 align="center">Hi there, I'm Marco Margarucci</h1>
 
 <h3 align="center">
-  Software Engineer | Quantum ML Explorer
+  PhD Student in Computational Intelligence | Università degli Studi di Napoli Federico II
 </h3>
 
 <p align="center">
-  Diving deep into the fascinating world of <b>Quantum Computing</b> and <b>Machine Learning</b>, while nurturing my love for poetry and long-term photography projects.
+  Diving deep into the fascinating world of <b>Quantum Computing</b>, <b>Machine Learning</b> and <b>Topological Quantum Computing</b>
 </p>
 
 ---
 
-## Current Projects
-- AI Agents  
-- Quantum Kernel  
-- Quantum Machine Learning
-
----
-
 ## Currently Learning
-- Quantum Computing  
 - Quantum Machine Learning  
-- Classical Machine Learning  
-- Formal Methods
+- Machine Learning  
+- Topological Quantum Computing
+- Braid Groups
+- Quantum Groups
 ---
 
 ## Tech Stack and Tools
