@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Marco Margarucci</h1>
 
-<h3 align="center">
-  PhD Student in Computational Intelligence | Università degli Studi di Napoli Federico II
-</h3>
-
 <p align="center">
   Diving deep into the fascinating world of <b>Quantum Computing</b>, <b>Machine Learning</b> and <b>Topological Quantum Computing</b>
 </p>
